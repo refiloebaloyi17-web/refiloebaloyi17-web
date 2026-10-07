@@ -1,6 +1,6 @@
 ## Hi, i'm Refiloe 
 
-🎓 Advanced ICT student at SPU<br/>
+🎓 Advanced ICT graduate at SPU<br/>
 🌐 Aspiring Network & Systems Analyst
 Passionate about designing secure, reliable networks and solving real-world connectivity challenges<br/>
 Exploring networking protocols, system security, and infrastructure management<br/>
